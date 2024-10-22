@@ -1,11 +1,11 @@
-# BLUM Bot
-BLUM Bot 
+# BLUM SUN
+BLUM Sun 
 
 support my github channel 
 
-Register Here : [BLUM Bot](https://t.me/BlumCryptoBot/app?startapp=ref_z2MpJGToqt)
+Register Here : [BLUM Bot](https://t.me/blum/app?startapp=ref_ZRi3CDYSyD)
 
-Join to My Telegram Group : [S4NSGroup](https://t.me/sansxgroup)
+Join to My Telegram Group : [ShineProject](https://t.me/+VFMv5L_0VzJkYWZl)
 
 
 ## Tutorial
@@ -13,10 +13,10 @@ Join to My Telegram Group : [S4NSGroup](https://t.me/sansxgroup)
 Install with python
 
 1. Download Python > install
-2. run in cmd pip install -r requirements.txt(if have requirements.txt)
-3. create file query_id.txt
-4. Open Bot BLUM in web & open inspect webview
-5. Open Application > Session Storage > copy all tgWebAppData ex: query=xxxxx/user=xxxxx
+2. Clone this repository (git clone https://github.com/WisnuAryaPutra/BlumSun)
+3. Go to BlumSun directory (cd BlumSun)
+4. Edit query_id.txt, input your token in query_id.txt
+5. Run the main program (python blum.py)
 
 
 ## Features
